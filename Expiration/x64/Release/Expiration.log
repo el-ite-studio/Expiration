@@ -1,0 +1,11 @@
+﻿  uic expiration.ui
+  rcc expiration.qrc
+  moc expiration.h
+   RCC: Warning: No resources in 'C:\Users\sysadmin\source\repos\Expiration\Expiration\expiration.qrc'.
+  expiration.cpp
+  main.cpp
+  qrc_expiration.cpp
+  moc_expiration.cpp
+  Expiration.vcxproj -> C:\Users\sysadmin\source\repos\Expiration\x64\Release\Expiration.exe
+  windeployqt: "E:/Qt/Qt5.9.0/5.9/msvc2017_64/bin\windeployqt.exe" --list target --dir C:\Users\sysadmin\source\repos\Expiration\x64\Release\ C:\Users\sysadmin\source\repos\Expiration\x64\Release\Expiration.exe
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.
